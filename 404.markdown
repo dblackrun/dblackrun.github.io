@@ -1,0 +1,7 @@
+---
+layout: page
+title: Error 404
+permalink: /404.html
+exclude: true
+---
+Page Not Found
