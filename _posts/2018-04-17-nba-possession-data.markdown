@@ -37,7 +37,7 @@ Here is the schema:
           }
         }
       }
-    },
+    }
   }
 ```
 Lineup ids are "-" separated player ids. Team rebounds and team turnovers are counted with the player id "0". Each StatKey should be pretty self-explanatory.
