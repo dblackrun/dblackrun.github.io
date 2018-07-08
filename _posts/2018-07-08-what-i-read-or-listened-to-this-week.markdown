@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What I Read or Listened to This Week"
-date:   2018-07-01T09:09:00Z
+date:   2018-07-08T09:09:00Z
 ---
 Here is some non-basketball content I read or listened to this week that I found interesting:
 
