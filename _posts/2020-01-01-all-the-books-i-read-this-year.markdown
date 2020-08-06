@@ -1,4 +1,4 @@
-organization---
+---
 layout: post
 title:  "All The Books I Read In 2020"
 date:   2020-01-01T09:09:00Z
@@ -196,3 +196,96 @@ Some notes and quotes from the books I have read this year:
     + "In seeking justice we must remember that as well as protecting the victims of abuse we must do our best to protect the falsely accused, and that means that statements must not be gathered using methods which could potentially seed false memories."
     + "According to the international organization the Innocence Project, ..., faulty memories, particularly of eyewitnesses, are the major contributing factor for wrongful convictions. For example, in 2015, out of 325 cases where modern DNA testing proved innocence beyond reasonable doubt, a whopping 235 cases involved eyewitness misidentification. This suggests that false memories play an absolutely critical role in the imprisonment of the innocent."
     + "The more potential pathways there are to a memory (the more associative links), the faster and more likely we are to get to where we need when we try to recall it. This is really the core principle behind most memory aids; we want to make things vivid, bizarre, and part of a situation."
+
+* [The Hot Hand](https://www.harpercollins.com/products/the-hot-hand-ben-cohen) - I was aware of most of the history of research on the hot hand and found the story telling really good in this book.
+
+* [Confessions of an Economic Hit Man ](https://www.bkconnection.com/books/title/confessions-of-an-economic-hit-man) - Stories from a career as an economic hit man from his work in places like Ecuador, Indonesia, Saudi Arabia and Panama. "Economic hit men (EHMs) are highly paid professionals who cheat countries around the globe out of trillions of dollars. They funnel money from the World Bank, the U.S. Agency for International Development (USAID), and other foreign aid organizations into the coffers of huge corporations and the pockets of a few wealthy families who control the planet's natural resources. Their tools include fraudulent financial reports, rigged elections, payoffs, extortion, sex, and murder. They play a game as old as empire, but one that has taken on new and terrifying dimensions during this time of globalization. I should know; I was an EHM."
+
+* [Moral Tribes](https://www.penguinrandomhouse.com/books/299057/moral-tribes-by-joshua-greene/)
+    + "Morality is a set of psychological adaptations that allow otherwise selfish individuals to reap the benefits of cooperation."
+    + Tragedy of the Commons and the prisoner's dilemma both show the conflict between cooperating and not cooperating.
+    + Reasons for cooperation include empathy, direct reciprocity, commitments to threats and promises, upholding your reputation (or fear of embarrassment) and tribalism.
+    + "It seems that knowing which side of a dispute you're on unconsciously changes your thinking about what's fair." This is biased fairness.
+    + "One might think that mixed evidence would encourage more moderate views, but it appears to do the opposite. People found the evidence supporting their original views more compelling than the counterevidence, and as a result, both opponents and proponents of capital punishment became more confident in their views after considering the mixed evidence."
+    + "the lesson is that false beliefs, once they've become culturally entrenched - once they have become tribal badges of honor - are very difficult to change, and changing them is no longer simply a matter of educating people." Ex. climate change.
+    + A main idea of the book is dual-process morality; one is more automatic and emotional, the other is more controlled and rational, much like Kahneman's Thinking Fast and Slow.
+    + Lots of focus on the trolley problem and how people's responses fit into the dual-process morality - distinction between personal force and no personal force, a means to an end and an end to a mean fit into the automatic process.
+    + "They found people, after being forced to explain the mechanics of these policies, downgraded their estimates of their own understanding and became more moderate in their opinions."
+    + Suggestions:
+        - "In the face of moral controversy, consult, but do not trust, your moral insticts." When it's Me vs Us use automatic mode, when it's Us vs Them use manual mode.
+        - "Rights are not for making arguments; they're for ending arguments." Rights tend to be used as shields.
+        - "Focus on the facts, and make others do the same." Force ourselves to know how policies are supposed to work and evidence about what works and what doesn't.
+        - "Beware of biased fairness."
+        - "Use common currency."
+        - "Give."
+
+* [Good To Go](https://www.goodtogobook.com/)
+    + Performance tests in a lab setting my not be a good measure of what you actually care about in real life. Ex. Running on a treadmill to exhaustion is a mental exercise in addition to physical.
+    + "Small studies are generally less reliable than larger ones, because they're less likely to constitute a representative sample, and they're known to have a bias towards showing a positive effect for the thing that they're testing." Lots of sport science studies have really small samples (~10 people)
+    + "Sprinkle an appealing idea with a dash of science, and it can seem more powerful or true than the evidence really show. But good luck overturning an idea once it's become sporting lore."
+    + Many studies are designed to find a result people want.
+        - Recovery drink study comparing performance on empty stomach vs with recovery drink - of course you will get a positive result when compared to an empty stomach.
+        - Study on timing of fuelling after workout comparing not eating vs eating right after - should compare eating at different intervals after workout, but when you do that you don't get a positive result.
+        - When placebo is obvious (ie you can tell that you are in the placebo drink if you drink water not not Gatorade) participants may be biased towards a positive result.
+    + "We're programmed to maintain homeostasis - a physiological state of equilibrium - even when conditions are less than optimal. Which means that it's important to get the big picture right, but fixating on the smallest details won't necessarily yield much payoff. The belied that there's some absolute perfect physiological state you can reach, if only you do everything right, opens the way to dubious products that use the language and jargon of science to exploit our search for the ideal."
+    + Two competing theories regarding icing and ice baths. First is that inflammation is your body's way of healing and icing can slow that down. Second is that icing can reduce pain and soreness allowing us to train harder, sooner. To ice or not depends on the individual situation ie. might not be good in the building phase of training, but might be between heats and finals of a track meet.
+    + Hard to have good studies regarding icing and ice baths because control group knows they aren't in an ice bath and just simply knowing that you are using something that is supposed to help recovery can influence results - placebo effect is real.
+    + Massages, compression stuff and foam rolling are probably more just things that feel good than have an actual impact on recovery. Evidence is minimal at best that they have a physiological benefit.
+    + Mental aspect of recovery is often ignored. Stress is stress even if it's not related to exercise.
+    + Sleep is super important.
+    + A major reason people use supplements is out of fear of missing out.
+    + "that's the problem with many supplement studies - they're not scientific quests for truth, but marketing exercises designed to sell products"
+    + "Supplement makers bring money to the table, and they spread this money around - to organizations, coaches, trainers, teams, and individual athletes. Along the way, a lot of people get a chance to make a buck.
+    + Overtraining syndrome is really about lack of proper recovery. Many people undervalue the value of taking time completely away from an activity.
+    + "The problem with technology is that it can lure us into mistaking the numbers we can collect with answers to the questions that matter."
+    + "Rather than teaching athletes to read their bodies and understand when they're tired and need to rest, these tests draw attention to numbers that may or may not be relevant."
+    + "In 2015, Australian sport scientist Anna Shaw and her colleagues gathered up the published studies on metrics used to quantify training load and response - everything from hormone levels to inflammation markers, blood cell counts, immune system markers, and heart rates. When they analyzed all the results, they found that subjective, self-reported measures trumped objective ones."
+    + "What makes tracking and data analysis so appealing is also what makes it dangerous - it conveys a sense of certainty that the science cannot yet deliver."
+    + "It doesn't matter if there's science to back it up. If an athlete strongly believes that something works, the belief effect can overwhelm the real effect." The reverse is also true.
+    + An open placebo (given the athlete the choice of which treatment to use that isn't backed by evidence) can enhance the placebo effect.
+    + Athletes want to feel like they have done everything they can to reach peak performance, so let them do all these things that don't really have a physiological benefit (icing, ice baths, stretching, massages, ...) because the mental benefit matters.
+
+* [The Confidence Game](https://www.mariakonnikova.com/books/the-confidence-game/)
+    + "The simple truth is most people aren't out to get you. We are so bad at spotting deception because it's better for us to be more trusting. Trust, and not adeptness at spotting deception, is the more evolutionarily beneficial path."
+    + "Our impulsivity and appetite for risk are some of the only reliable indicators of fraud susceptibility... A victim isn't necessarily foolish or greedy. A victim is simply more emotionally vulnerable at the exact moment the confidence artist approaches." More susceptible after a major life change.
+    + People are really bad at detecting deception.
+    + A person having familiarity with you, even if it's just knowing your name, makes you trust them more. Any piece of information about you a con artist can gather before ever talking with you can make a big difference in how you trust them.
+    + Even just pretending you met someone before by knowing they were at an event (ex you are someone's relative that you met at a wedding) can increase their level of trust in you.
+    + Emotion often overrides rational thinking, so a good story can matter more than facts.
+    + We ignore logical inconsistencies in a story if we are emotionally invested.
+    + "The best confidence artist makes us feel not like we're being taken for a ride but like we are genuinely wonderful human beings."
+    + "Irrational fears trump rational reasoning."
+    + "Someone who has already agreed to a small request - like opening the door for you - would become more, not less, likely to agree to a larger request later."
+    + "Even when we're anonymous and the group not particularly desirable, we'd still like to be included more than not - and it hurts when we are excluded." ex. people trying to get accepted with Madoff
+    + "It doesn't actually matter what you say, in what order, or how. All that matters is that you say a lot, quickly, and that it sounds convoluted and has many moving parts. Simply put, we tend to make worse decisions when we have a lot on our mids - even after that "lot" is removed."
+    + "We hold an unwavering commitment to the notion that we are special - and not just special, but more special than most anyone else." - Leads to mentality of I won't get conned, that's something that only happens to others.
+    + "Not only does our conviction of our own exceptionalism and superiority make us misinterpret events and mischaracterize decisions; it also hits us a second time long after the event in question. Because of this, we rewrite the past in a way that makes us less likely to learn from it, selectively recalling everything good and conveniently forgetting the bad."
+    + "Unrealistic optimism about the future doesn't just make us think everything will continue to get well if we're seeing returns at this very moment. It also make us complacent - and complacently overconfident - even when we have the chance to get out."
+    + "And that is precisely what the confidence artist is depending on in the convincer. That nagging feeling in your guy: what if you scream foul and it ends up that it wasn't a con after all?"
+    + "Confidence men are master storytellers, so by the time things appear to be getting dicey, they are perfectly placed to make us believe ever more strongly in their fiction rather than walk away, as we by any estimation should. They don't just tell the original tale; they know how to make even the most dire seeming evidence against them look more likve evidence in favor of their essential trustworthiness and their chosen scheme's essential brilliance."
+    + "Once we're in the game, it's easiest to follow the path of least resistance. It justifies what we've already done and reduces the effort we need to make going forward. The deeper we get, the more difficult psychologically it becomes to extricate ourselves, or to see that we're even in need of extrication. All of the factors are aligned against us."
+    + "Almost no one is immune to reputational slights, despite what they may want you to believe. We all say we don't care about what other people think, but when it comes down to it, most of us really do. We ourselves are the grifter's best chance of a successful blow-off; we don't want anyone to know we've been duped. That's why the fix is so incredibly rare - why would it ever come to pressing charges, when usually all we want is for it all to quietly go away?"
+    + To avoid being a mark "Know what people you're likely to trust, what triggers are likely to catch you, whether positive or negative, and try to be aware enough of your own behavior that you won't get swept up in it."
+    + "To avoid getting duped... have an escape clause, or a way of exiting any interaction with your dignity intact. We often are sucked up in cons because we don't quite know how to disengage."
+
+* [Whistleblower](https://www.penguinrandomhouse.com/books/585732/whistleblower-by-susan-fowler/) - A look at Susan Fowler's story and the terrible culture at Uber (as well as other places she worked)
+
+* [Upstream](https://www.simonandschuster.com/books/Upstream/Dan-Heath/9781982134723)
+    + Downstream solutions are fixing a problem after it has happened. Upstream solutions are preventing the problem from even happening.
+    + Harder to measure upstream solutions because it is hard to define success when success is something not happening.
+    + Barrier to upstream thinking - problem blindness: that's just how it is so nobody questions it.
+    + Barrier to upstream thinking - lack of ownership: it's not my problem to fix.
+    + Barrier to upstream thinking - tunneling: when people are trying to juggle many problems they stop trying to solve them all and long-term planning goes away. You put off important, but not urgent things. "If you can't systematically solve problems, it dooms you to stay in an endless cycle of reaction. Tunneling begets more tunneling."
+    + "The need for heroism is usually evidence of systems failure."
+    + Data for the purpose of learning vs data for the purpose of inspection - should be asking how will this data be used by teachers to improve their classrooms or by doctors to improve the health of their patients?
+    + Ways to make mistakes when trying to measure success:
+        - Mistakenly attributing success to your own work. "The team applauds itself for hitting more home runs - but it turns out every team in the league hit more home runs"
+        - Succeed in short-term measures but those don't align with long-term success. "The team doubled its home runs but barely won any more games"
+        - When the measures become the mission. "The pressure to hit home runs led several players to start taking steroids, and they got caught"
+    + Questions to ask ahead of time to make sure you can accurately measure success:
+        - What else might explain short-term success other than our own efforts and are we tracking those factors?
+        - What would allow us to figure out a misalignment of short-term measures and long-term success as quickly as possible?
+        - How can these measures be gamed?
+        - If our short-term measures are successful over a long period of time and out long-term mission hasn't been met, do we know what happened?
+    + Often times the entities paying for the upstream solution and the entities benefiting are different, so how to we figure out who pays for it?
+    + ![Upstream]({{ "/assets/20200806_162231.jpg" | absolute_url }})
