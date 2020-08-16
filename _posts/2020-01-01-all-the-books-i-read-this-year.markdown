@@ -289,3 +289,5 @@ Some notes and quotes from the books I have read this year:
         - If our short-term measures are successful over a long period of time and out long-term mission hasn't been met, do we know what happened?
     + Often times the entities paying for the upstream solution and the entities benefiting are different, so how to we figure out who pays for it?
     + ![Upstream]({{ "/assets/20200806_162231.jpg" | absolute_url }})
+
+* [Dignity](https://www.penguinrandomhouse.com/books/566661/dignity-by-chris-arnade/) - Chris Arnade's journey around America talking to the back row.
