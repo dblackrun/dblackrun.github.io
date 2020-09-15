@@ -291,3 +291,5 @@ Some notes and quotes from the books I have read this year:
     + ![Upstream]({{ "/assets/20200806_162231.jpg" | absolute_url }})
 
 * [Dignity](https://www.penguinrandomhouse.com/books/566661/dignity-by-chris-arnade/) - Chris Arnade's journey around America talking to the back row.
+
+* [Merchants of Doubt](https://www.merchantsofdoubt.org/) - Details of how a few "scientists", backed by right wing donors, and aided by the media, mislead the public on some of the biggest scientific issues of our time.
