@@ -2,6 +2,7 @@
 layout: post
 title:  "Basketball Stats I Wish People Would Stop Using"
 date:   2019-05-02T09:09:00Z
+tags: basketball
 ---
 
 These are a few of the frustrations I have with commonly used stats during TV broadcasts of NBA games.

@@ -2,6 +2,7 @@
 layout: post
 title:  "Some Quick Math on The Quick 2 aka The Slower Loss"
 date:   2019-11-23T09:09:00Z
+tags: basketball
 ---
 
 End game spots in basketball are my favourite strategic spots to think about. One thing I think many people get wrong is going for a quick 2 when down by 3 points at the end of game (I'm looking at you announcers who love to say "you don't need a 3"). I figured I would run through some quick math based on actual results of ~20 years of NBA games to show that teams should be more aggressive going for 3 in these spots.

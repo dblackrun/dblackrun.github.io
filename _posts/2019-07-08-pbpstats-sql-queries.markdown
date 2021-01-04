@@ -2,6 +2,7 @@
 layout: post
 title:  "SQL Queries for PBPStats Database"
 date:   2019-07-08T09:09:00Z
+tags: pbpstats
 ---
 
 I've created a [Docker image](https://github.com/dblackrun/pbpstats-docker) with a PostgreSQL database with 2018-19 NBA data I use for [pbpstats.com.](https://www.pbpstats.com/) It is queryable in a web browser using pgadmin. The instructions for getting started are in the github repo. I'm sharing some queries to show what types of things are possible. The main table is the possession_details table, which has a row with data for each possession. Here is the schema, it should mostly be self-explanatory:

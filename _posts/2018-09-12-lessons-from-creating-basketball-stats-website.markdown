@@ -2,6 +2,7 @@
 layout: post
 title:  "Lessons From Creating and Maintaining a Basketball Stats Website"
 date:   2018-09-12T09:09:00Z
+tags: pbpstats
 ---
 
 When I started building [pbpstats.com](pbpstats.com) I didn't really have a plan for it. My main goal was just to use it as a way to learn something new while building a site that would make it easy to look up stats that weren't easily accessible. There was a chance it would never be more than a local web app that was only used by me. As I started adding more and more to the site, I realized that I should probably get a domain name and deploy it so others could use it. I had experience working on back end stuff and data cleaning but a lot of this was new to me, so there were a lot of new things I learned a lot along the way. The code now is very different from when the site first went live. I have completely redone the front end and refactored most of the back end code. In general I think I am now at a point where I have a maintainable codebase, but it wasn't like that from the start. I have made some updates this summer in places I hadn't touched in 6+ months and was able to jump right in and easily make the changes. This definitely wouldn't have been the case with some of my previous projects or even when the site first went live. I figured I would write down some thoughts on things I have learned. These are mostly for my own record, but maybe they will be useful for someone else.

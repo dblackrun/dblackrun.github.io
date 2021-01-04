@@ -2,6 +2,7 @@
 layout: post
 title:  "PBPStats Shot Query Summary Links"
 date:   2019-04-03T09:09:00Z
+tags: pbpstats
 ---
 
 Links to some specific shot queries.

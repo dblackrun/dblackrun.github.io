@@ -2,6 +2,7 @@
 layout: post
 title:  "Some Quick Thoughts On Final Shots in Tie Games in the NBA"
 date:   2020-09-16T09:09:00Z
+tags: basketball
 ---
 
 

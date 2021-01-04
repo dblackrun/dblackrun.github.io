@@ -2,6 +2,7 @@
 layout: post
 title:  "Pesticides, Developing Resistance and the NBA"
 date:   2020-09-14T09:09:00Z
+tags: basketball
 ---
 
 I recently finished reading Merchants of Doubt and one of the chapters focused on the attacks on [Rachel Carson](https://www.rachelcarson.org/) and her book Silent Spring, which warned of the dangers of pesticides such as DDT back in 1962. The attacks claim that her role in the ban of DDT prevented malaria control which could have saved millions of lives. This claim is not warranted, in part, because at the time DDT was banned it was already becoming less effective at killing mosquitoes because they developed a resistance to DDT. "The most efficient way to use pesticides against disease is through application to the insides of buildings... it doesn't produce resistance very quickly, because most insects don't wind up in buildings and therefore aren't subject to poison.... However, when pesticides are sprayed over large agricultural areas, they kill a large fraction of the total insect population, ensuring that the hardy survivors breed only with the other hardy survivors; the very next generation may display resistance." I read this chapter right around when the Bucks and Rockets got eliminated from the playoffs. This got me thinking about how teams and players who play one way in the NBA fare better in the regular season than the playoffs.

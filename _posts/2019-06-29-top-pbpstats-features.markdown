@@ -2,6 +2,7 @@
 layout: post
 title:  "My Favourite Features on pbpstats.com"
 date:   2019-06-29T09:09:00Z
+tags: basketball pbpstats
 ---
 
 I didn't really have a plan when I started building [pbpstats.com](pbpstats.com) other than to make it easier to find stats that either weren't available anywhere or weren't easy to find on other sites. The site has been up for almost two years and here are the features I am most proud of.

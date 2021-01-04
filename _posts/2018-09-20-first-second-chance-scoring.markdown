@@ -2,6 +2,7 @@
 layout: post
 title:  "Separating First and Second Chance Scoring in the NBA"
 date:   2018-09-20T09:09:00Z
+tags: basketball
 ---
 
 With the decline of offensive rebounding in recent years we can assume this means second chance scoring is declining as well. Since offensive efficiency is on the rise, this means that efficiency excluding second chance points must be increasing to an even larger degree. I decided to split up second chance points from other points to look at trends in recent years. For lack of a better term I have called these first chance points, where first chance points and second chance points sum up to total points. If someone can come up with a better name for these let me know. Here are the yearly trends in these stats as well as Second Chance ORtg (second chance points per 100 second chance possessions).

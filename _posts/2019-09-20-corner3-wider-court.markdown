@@ -2,6 +2,7 @@
 layout: post
 title:  "Why Corner Threes Will Still be Valuable if the NBA Widens the Court"
 date:   2019-09-20T09:09:00Z
+tags: basketball
 ---
 
 A common suggestion to reduce the value of the three pointer is to widen the court and make the three point line the same distance all around the court. The thinking is that corner threes are more valuable because they are taken from nearly two feet closer to the net so if we make the three point line the same distance all around the court that will eliminate the discrepancy between the value of corner threes and above the break threes.

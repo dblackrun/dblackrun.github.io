@@ -2,6 +2,7 @@
 layout: post
 title:  "Fred VanVleet's Weakness"
 date:   2020-12-26T09:09:00Z
+tags: basketball
 ---
 
 If you have watched a lot of Raptors games over the past few seasons it can be a struggle watching them try to score in the half court. One of the reasons for that is they lack a guy who can generate good shots for himself. In particular, this is an area in which Fred VanVleet really struggles. I decided to take a dive into the public tracking stats to see how much he struggles and how he compares to other players. For all the stats below, self-created shots are shots on which the player held the ball for 2 or more seconds before shooting and assisted shots are shots on which the player held the ball for under 2 seconds before shooting.

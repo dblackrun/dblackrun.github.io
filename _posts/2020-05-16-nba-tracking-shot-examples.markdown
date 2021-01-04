@@ -2,6 +2,7 @@
 layout: post
 title:  "NBA Tracking Shot Stat Video Examples"
 date:   2020-05-16T09:09:00Z
+tags: basketball
 ---
 
 The stats for the tracking data on [stats.nba.com](https://stats.nba.com/) allow for filtering by period. This means that when a player makes or misses a single 2 or 3-pointer in a quarter we can get figure out how that shot was classified by the tracking filters. Here are some examples of shots for each closest defender distance filter.

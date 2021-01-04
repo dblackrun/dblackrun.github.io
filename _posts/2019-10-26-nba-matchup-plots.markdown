@@ -2,6 +2,7 @@
 layout: post
 title:  "NBA Matchup Plots"
 date:   2019-10-26T09:09:00Z
+tags: basketball
 ---
 
 There are now [matchup boxscores](https://stats.nba.com/game/0021900001/matchups/) on stats.nba.com. It can be a little hard to get a lot out of reading the data table as shown on the site. I saw a [tweet from Seth Partnow](https://twitter.com/SethPartnow/status/1187856326606675969) with some charts showing the data in an easy to interpret fashion and decided to write some quick and dirty python code to generate the same charts. The example below is the Toronto Raptors defensive matchups in their season opener against New Orleans.

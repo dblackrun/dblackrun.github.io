@@ -2,6 +2,7 @@
 layout: post
 title:  "The Myth of the Lost Art of the Mid-Range"
 date:   2021-01-04T09:09:00Z
+tags: basketball
 ---
 
 "The analytics say that's a bad shot" is a phrase you will often hear during NBA broadcasts when a guy like Kevin Durant or Chris Paul pulls up from mid-range, often accompanied by a lament that analytics have resulted in the "death of the mid-range" or the "lost art of the mid-range" (Side note: analytics don't say anything, people do, and often when that phrase is said by TV analysts it is often not something people who actually do basketball analytics would agree with). Based on the commentary, you would think that the elite scorer getting to his spot and shooting from mid-range is a shot that is getting taken out of NBA shot profile. While it is true that mid-range attempts are way down, the shots that aren't being taken anymore are mostly assisted mid-range shots. Unassisted mid-range shots, which is what I would think most people would classify as "the art of the mid-range", have had very little change in how often they are taken since tracking data became publicly available.

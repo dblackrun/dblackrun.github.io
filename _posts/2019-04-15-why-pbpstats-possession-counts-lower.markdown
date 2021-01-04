@@ -2,6 +2,7 @@
 layout: post
 title:  "Why Possession Counts Are Lower on PBPStats Than NBA Stats"
 date:   2019-04-15T09:09:00Z
+tags: pbpstats
 ---
 
 This season the [NBA stats website](https://stats.nba.com/){:target="_blank"} started using exact possession counts instead of the estimate they had previously used. While exact counts had previously been available on some smaller sites, including my site, [PBPStats](https://www.pbpstats.com/){:target="_blank"}, it was good to see what I would assume is the most visited site for NBA stats finally use exact counts. If you have compared numbers on the NBA site and on [PBPStats](https://www.pbpstats.com/){:target="_blank"} you have probably noticed that the possession counts are different. How can the counts be different if both are using exact counts? Well it turns out defining a possession is not as simple as one might think. I will use game 1 of the Raptors Magic series to show a few examples of this.

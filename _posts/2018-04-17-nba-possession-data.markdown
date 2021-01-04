@@ -2,6 +2,7 @@
 layout: post
 title:  "NBA Possession Data"
 date:   2018-04-17T09:09:00Z
+tags: basketball
 ---
 
 I have decided to share my possession details dataset for the 2017-18 regular season. This data is the starting point for all stats on [PBPStats.com](https://www.pbpstats.com/). I have parsed out possession details from play by play data to create detailed stats for each possession. I spent dozens of hours putting this together and I think there is a lot that can be done with this data. By making it public I'm hoping people will do some stuff with it that I would have never thought of doing.

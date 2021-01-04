@@ -2,6 +2,7 @@
 layout: post
 title:  "Digging Deeper Into Pace in the NBA"
 date:   2018-04-18T09:09:00Z
+tags: basketball
 ---
 
 In NBA stats pace is the number of possessions a team gets per 48 minutes. It is used as a measure of how fast a team plays. While it is generally a good measure, it is flawed in a few ways. The first reason is that it doesn't separate offensive pace and defensive pace. When pace is brought up, often people are talking about the pace of a team's offense. A team that plays fast on offense and forces their opponents to play slow on defense may not have a fast pace by the traditional definition. The second is that getting offense rebounds slows down your pace. A team that generates quick shots but gets a lot of offensive rebounds may have a slower pace number than a team that is slower to get their first shot on a possession but doesn't offensive rebound as often. Using python and the possession data I shared [here](https://dblackrun.github.io/2018/04/17/nba-possession-data.html) I'm going to calculate the average time of possession excluding second chance time on offense and defense and compare those to the pace numbers.

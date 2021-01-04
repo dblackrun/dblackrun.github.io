@@ -2,6 +2,7 @@
 layout: post
 title:  "Play-by-Play Based Shot Quality Model"
 date:   2018-09-03T09:09:00Z
+tags: basketball pbpstats
 ---
 
 

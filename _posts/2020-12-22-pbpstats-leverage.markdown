@@ -2,6 +2,7 @@
 layout: post
 title:  "Leverage Stats on pbpstats.com"
 date:   2020-12-22T09:09:00Z
+tags: basketball pbpstats
 ---
 
 *TLDR: Leverage stats on [pbpstats.com](https://www.pbpstats.com/) group stats based on how each much possession impacts win probability.*

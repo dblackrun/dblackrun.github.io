@@ -2,6 +2,7 @@
 layout: post
 title:  "All The Books I Read In 2020"
 date:   2020-01-01T09:09:00Z
+tags: reading
 ---
 Some notes and quotes from the books I have read this year:
 

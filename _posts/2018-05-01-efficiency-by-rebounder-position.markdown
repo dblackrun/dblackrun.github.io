@@ -2,6 +2,7 @@
 layout: post
 title:  "NBA Efficiency by Rebounder Position"
 date:   2018-05-01T09:09:00Z
+tags: basketball
 ---
 
 I recently shared my [possession data](https://dblackrun.github.io/2018/04/17/nba-possession-data.html) and wrote a brief [post](https://dblackrun.github.io/2018/04/18/digging-deeper-pace.html) on how to use it to dig deeper into pace. Today I'm going to do some exploratory analysis on that data to breakdown the efficiency on possessions following a missed field goal based on the position of the rebounder. Intuition would suggest that when a primary ball handler gets a defensive rebound it should create more fast break opportunities and lead to a more efficient offense. Let's see if the data backs that up.

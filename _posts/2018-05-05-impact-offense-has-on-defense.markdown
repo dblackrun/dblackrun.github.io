@@ -2,6 +2,7 @@
 layout: post
 title:  "The Impact Your Offense Has On Your Defense"
 date:   2018-05-05T09:09:00Z
+tags: basketball
 ---
 
 Basketball is a free flowing game of alternating possessions. As a result, how your offensive possession ends impacts the results on the ensuing defensive possession. If you score, your opponent has to take the ball out of bounds and inbound it, which gives you extra time to get back on defense. That extra time to get back on defense helps your defense compared to if you missed a shot and the other team got the rebound. If you turn the ball over, your opponent may have a chance to score on a fast break. How much do these things actually impact your defensive efficiency though? At [pbpstats.com](https://www.pbpstats.com) you can filter stats by how the previous possession ends, so we can see exactly how teams do based on how the offensive possession starts. Here are the stats for the 2017-18 regular season.

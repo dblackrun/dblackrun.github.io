@@ -2,6 +2,7 @@
 layout: post
 title:  "What I Read or Listened to This Week"
 date:   2019-12-15T09:09:00Z
+tags: reading
 ---
 Here is some non-basketball content I read or listened to this week that I found interesting:
 
